@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+
+#box{
+  background-color: lightgray;
+  padding-top: 30px;
+  margin-top: 100px;
+}
+
+.btn{
+  padding: 10px;
+  background-color: cornflowerblue;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: darkblue;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 150px;
+}
+
+.btn2{
+  padding: 10px;
+  background-color: gray;
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100px;
+}
+
+.input{
+  display: inline;
+  width: 200px;
+  margin: 10px;
+  border-style: solid;
+  border-color: black;
+}
+
+.lbl{
+  padding: 15px;
+}
+
+.errLbl{
+  color: red;
+  font-size: small;
+}
+
+#products{
+  background-color: lightgoldenrodyellow;
+  border-style: solid;
+  border-color:black;
+  width: 70%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+}
